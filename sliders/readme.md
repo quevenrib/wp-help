@@ -2,9 +2,9 @@
 
 First of all, include in your code bootstrap files. You can find it in [Boostrap](http://getbootstrap.com/getting-started/) website. Don't forget the JS files. They are important here.
 
-In your administration create the a repeater field for your slider. The below code supports **image**, **caption text**, **button** and **button link**. You can add new features as you need of remove if you want.
+Whereas you have the [Advanced Custom Fields](https://www.advancedcustomfields.com) plugin, go to your administration and create the a repeater field for your slider. The below code supports **image**, **caption text**, **button** and **button link**. You can add new features as you need of remove if you want.
 
-All you have to do now, is past the code in your website and change the field names.
+All you have to do now, is past the code below in your website and change the field names. Or download it [here](https://github.com/quevenrib/wp-help/blob/master/sliders/slider-carousel.php)
 
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
     
