@@ -4,4 +4,4 @@ I won't put here native WP codes. You can find it in the [codex](https://codex.w
 
 Check the features:
 
-* [Carousel Slider from Bootstrap](https://github.com/quevenrib/wp-help/blob/master/slider-carousel.md#boostrap-carousel-with-advanced-custom-fields-plugin-for-wordpress)
+* [Carousel Slider from Bootstrap with ACF plugin](https://github.com/quevenrib/wp-help/blob/master/slider-carousel.md#boostrap-carousel-with-advanced-custom-fields-plugin-for-wordpress)
