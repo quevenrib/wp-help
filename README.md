@@ -3,5 +3,6 @@ This is a helper repository for WordPress© beginners. Here you'll find some cod
 I won't put here native WP codes. You can find it in the [codex](https://codex.wordpress.org/).
 
 Check the features:
+* [Basic WordPress Functions and Hooks](https://github.com/quevenrib/wp-help/blob/master/Basic-WordPress-Functions.md)
 
 * [Carousel Slider from Bootstrap with ACF plugin](https://github.com/quevenrib/wp-help/tree/master/sliders#boostrap-carousel-with-advanced-custom-fields-plugin-for-wordpress)
